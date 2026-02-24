@@ -9,7 +9,7 @@ class ApiService {
   // String texturl = "http://localhost:8080";
   //text for android emulator
   // String texturl = "http://10.0.2.2:8080";
-  static const String basUrl = "https://wtb-server.onrender.com";
+  static const String basUrl = "http://localhost:8080";
 
   Future<bool> saveBan(Ban ban) async {
     try {
