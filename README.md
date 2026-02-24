@@ -1,6 +1,18 @@
-# 🌍 WTB Project (Where To Be)
+#  WTB Project (Where To Be)
 
 A full-stack application designed for solo travelers to track villages and locations. This repository contains both the Go (Golang) backend and the Flutter mobile application.
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/img0.png" width="18%" />
+  <img src="screenshots/img1.png" width="18%" />
+  <img src="screenshots/img2.png" width="18%" />
+  <img src="screenshots/img3.png" width="18%" />
+</p>
+
 
 ---
 
@@ -19,7 +31,6 @@ WTB_project/
     └── ...
 ```
 
----
 
 ## 🚀 Getting Started
 
