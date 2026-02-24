@@ -1,0 +1,13 @@
+# Binaries
+bin/
+obj/
+
+# Secrets
+.env
+.env.local
+
+# Go dependencies
+vendor/
+
+# OS files
+.DS_Store
